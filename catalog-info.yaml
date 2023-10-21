@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CNCFSample
+  annotations:
+    github.com/project-slug: luislaredovelazquez/cncfsample
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
