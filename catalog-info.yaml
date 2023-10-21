@@ -4,6 +4,7 @@ metadata:
   name: CNCFSample
   annotations:
     github.com/project-slug: luislaredovelazquez/cncfsample
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
